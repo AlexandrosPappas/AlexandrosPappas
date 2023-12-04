@@ -1,7 +1,7 @@
 ### Hi there stranger🙋‍♂️
 My name is Alexandros Pappas. I live in Athens Greece and i am studyung Comptuter Science💻 at Athens University of Economics and Business.
 
-- 🔭 I’m currently working as a Frontend Engineer.
+- 🔭 I’m currently working as a Frontend Developer.
 - 📫 How to reach me: pappas.g.alexandros@gmail.com
 <!--
 **AlexandrosPappas/AlexandrosPappas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
